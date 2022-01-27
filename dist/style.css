@@ -13,7 +13,7 @@ a:hover {
 }
   
 .jumbotron {
-    background-color: #335c67;
+    background-color: #2224b6;
 }
   
 .main-section {
@@ -32,15 +32,15 @@ a:hover {
 }
   
 .manager-card {
-    background-color: #540b0e;
+    background-color: #92373a;
 }
   
 .engineer-card {
-    background-color: #9e2a2b;
+    background-color: #2a2324;
 }
   
 .intern-card {
-    background-color: #e09f3e;
+    background-color: #883be0;
 }
   
 .card-body {
